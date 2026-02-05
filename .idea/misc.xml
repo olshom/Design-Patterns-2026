@@ -7,6 +7,8 @@
         <option value="$PROJECT_DIR$/RPG/pom.xml" />
         <option value="$PROJECT_DIR$/ASCII/pom.xml" />
         <option value="$PROJECT_DIR$/Organization/pom.xml" />
+        <option value="$PROJECT_DIR$/WeatherStation/pom.xml" />
+        <option value="$PROJECT_DIR$/LoggerSystem/pom.xml" />
       </list>
     </option>
   </component>

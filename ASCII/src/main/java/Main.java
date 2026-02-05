@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        //UIFactory myFactory = new AFactory();
-        UIFactory myFactory = new BFactory();
+        UIFactory myFactory = new AFactory();
+        //UIFactory myFactory = new BFactory();
         Element button = myFactory.createButton();
         button.setText("button");
         Element textField= myFactory.createTextField();
