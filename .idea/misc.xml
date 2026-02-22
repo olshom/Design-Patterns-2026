@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Organization/pom.xml" />
         <option value="$PROJECT_DIR$/WeatherStation/pom.xml" />
         <option value="$PROJECT_DIR$/LoggerSystem/pom.xml" />
+        <option value="$PROJECT_DIR$/CustomizablePrinter/pom.xml" />
       </list>
     </option>
   </component>

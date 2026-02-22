@@ -3,6 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ASCII/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ASCII/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CustomizablePrinter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/CustomizablePrinter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LoggerSystem/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LoggerSystem/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Organization/src/main/java" charset="UTF-8" />
