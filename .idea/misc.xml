@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/WeatherStation/pom.xml" />
         <option value="$PROJECT_DIR$/LoggerSystem/pom.xml" />
         <option value="$PROJECT_DIR$/CustomizablePrinter/pom.xml" />
+        <option value="$PROJECT_DIR$/StateGame/pom.xml" />
+        <option value="$PROJECT_DIR$/TemplateGame/pom.xml" />
       </list>
     </option>
   </component>

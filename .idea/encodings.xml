@@ -11,6 +11,10 @@
     <file url="file://$PROJECT_DIR$/Organization/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RPG/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/RPG/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StateGame/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/StateGame/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TemplateGame/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TemplateGame/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WeatherStation/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/WeatherStation/src/main/resources" charset="UTF-8" />
   </component>
