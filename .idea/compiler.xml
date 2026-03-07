@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SortingStrategyDP" />
         <module name="WeatherStation" />
         <module name="Organization" />
         <module name="StateGame" />
@@ -14,6 +15,7 @@
         <module name="RPG" />
         <module name="CustomizablePrinter" />
         <module name="ASCII" />
+        <module name="FeedbackHandler" />
       </profile>
     </annotationProcessing>
   </component>
